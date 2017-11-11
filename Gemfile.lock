@@ -1,0 +1,16 @@
+GEM
+  specs:
+    json (2.0.3)
+    mini_portile2 (2.3.0)
+    nokogiri (1.8.1)
+      mini_portile2 (~> 2.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json
+  nokogiri
+
+BUNDLED WITH
+   1.14.6
